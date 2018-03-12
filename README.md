@@ -1,5 +1,5 @@
 
-## DevOps HW2 - Test Generation and Code Coverage
+# DevOps HW2 - Test Generation and Code Coverage
 
 ## Code Coverage
 
